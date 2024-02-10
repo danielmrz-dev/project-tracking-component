@@ -2,6 +2,8 @@
 
 This is a solution to the [Project tracking intro component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
+
 ## Table of contents
 
 - [Overview](#overview)
